@@ -1,3 +1,3 @@
 # vulnerable-repository
 
-vulnerable scripts
+vulnerable scripts for testing
