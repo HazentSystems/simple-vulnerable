@@ -1,3 +1,3 @@
 # vulnerable-repository
 
-vulnerable scripts for testing
+vulnerable scripts for testing in multiple languages
